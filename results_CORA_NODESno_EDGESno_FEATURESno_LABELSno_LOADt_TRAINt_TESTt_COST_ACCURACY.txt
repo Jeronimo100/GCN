@@ -1,0 +1,57 @@
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8902 accuracy= 0.7780
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9019 accuracy= 0.7890
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9986 accuracy= 0.7650
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8719 accuracy= 0.7860
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8524 accuracy= 0.8010
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9240 accuracy= 0.7640
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8860 accuracy= 0.7880
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8749 accuracy= 0.7860
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8897 accuracy= 0.7810
+200 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8524 accuracy= 0.8010
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+200 nodes, 5429 edges, 1433 features, 7 labels, 
+200 nodes, 5429 edges, 1433 features, 7 labels, 
+200 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8781 accuracy= 0.7830
+200 nodes, 5429 edges, 1433 features, 7 labels, 
+2704 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.8958 accuracy= 0.1140
+2704 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.9222 accuracy= 0.1110
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.7421 accuracy= 0.1600
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= inf accuracy= 0.1670
+2704 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= inf accuracy= 0.1860
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9450 accuracy= 0.7720
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 2.4977 accuracy= 0.1580
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 2.5486 accuracy= 0.1800
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 2.4532 accuracy= 0.1940
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9373 accuracy= 0.7790
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 2.0767 accuracy= 0.1690
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 3.0961 accuracy= 0.1530
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.5984 accuracy= 0.4220
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.2648 accuracy= 0.5940
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7462 accuracy= 0.8120
+1508 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.5839 accuracy= 0.8120
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8475 accuracy= 0.8040
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9993 accuracy= 0.7590
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8899 accuracy= 0.7870
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9318 accuracy= 0.7810
+2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8779 accuracy= 0.7870
+2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8579 accuracy= 0.8040
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8541 accuracy= 0.8040
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9383 accuracy= 0.7720
+2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9015 accuracy= 0.7960
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8702 accuracy= 0.7950
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9116 accuracy= 0.7820
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8598 accuracy= 0.8070
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9002 accuracy= 0.7780

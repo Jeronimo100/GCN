@@ -1,0 +1,13 @@
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.8241 accuracy= 0.2620, TrainT=41.3143, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 3.2261 accuracy= 0.2620, TrainT=294.8645, SampleSize=6000, BatchSize=1, Overlap=1, SamplesNo=12, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.9086 accuracy= 0.2620, TrainT=93.8496, SampleSize=30000, BatchSize=1, Overlap=1, SamplesNo=3, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 3.4846 accuracy= 0.2620, TrainT=3524.6693, SampleSize=30000, BatchSize=1, Overlap=10, SamplesNo=30, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.5203 accuracy= 0.2630, TrainT=44.5753, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.4953 accuracy= 0.2470, TrainT=50.0254, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.5474 accuracy= 0.2416, TrainT=49.5827, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.5492 accuracy= 0.2503, TrainT=41.6578, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.5494 accuracy= 0.2503, TrainT=45.3072, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.5868 accuracy= 0.2503, TrainT=43.2737, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.6228 accuracy= 0.2503, TrainT=43.2084, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.6477 accuracy= 0.2380, TrainT=43.4448, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2
+68689 nodes, 1568152 edges, 1 features, 65 labels, loss= 2.8235 accuracy= 0.2620, TrainT=40.8014, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2

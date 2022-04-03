@@ -1,0 +1,118 @@
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7648 accuracy= 0.7800, DataSize=1000, BatchNo=1, IterNo=6, LayersNo=3
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9520 accuracy= 0.6570, DataSize=1000, BatchNo=1, IterNo=6, LayersNo=3
+2708 nodes, 5429 edges, 1433 features, 7 labels, 
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.0852 accuracy= 0.6210, DataSize=1000, BatchNo=1, IterNo=6, LayersNo=4
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6746 accuracy= 0.8010, DataSize=1700, BatchNo=1, IterNo=4, LayersNo=4
+
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6666 accuracy= 0.8020, SampleSize=1200, BatchSize=1, SamplesNo=60, LayersNo=6
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6631 accuracy= 0.8060, SampleSize=1200, BatchSize=1, SamplesNo=60, LayersNo=6
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7259 accuracy= 0.7800, SampleSize=1200, BatchSize=1, SamplesNo=60, LayersNo=6
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6670 accuracy= 0.7980, DataSize=900, BatchNo=1, IterNo=20, LayersNo=4
+
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7309 accuracy= 0.8320, TrainT=38.9031, SampleSize=2704, BatchSize=1, Overlap=1, SamplesNo=2, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.6228 accuracy= 0.3990, TrainT=2.7969, SampleSize=2704, BatchSize=1, Overlap=1, SamplesNo=2, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.6487 accuracy= 0.3780, TrainT=2.9366, SampleSize=2704, BatchSize=1, Overlap=1, SamplesNo=2, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7114 accuracy= 0.8150, TrainT=37.6637, SampleSize=2704, BatchSize=1, Overlap=1, SamplesNo=2, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8790 accuracy= 0.7980, TrainT=7.2054, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2
+2500 nodes, 116 edges, 63299 features, 29 labels, loss= 2.7668 accuracy= 0.2630, TrainT=188.3326, SampleSize=2500, BatchSize=1, SamplesNo=1, LayersNo=2 (TKipf code)
+2500 nodes, 116 edges, 63299 features, 29 labels, loss= 2.7622 accuracy= 0.2630, TrainT=415.8380, SampleSize=2500, BatchSize=1, Overlap=1, SamplesNo=1, LayersNo=2
+68689 nodes, 191 edges, 1 features, 65 labels, loss= 2.8239 accuracy= 0.2620, TrainT=24.0198, SampleSize=68689, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+22708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9524 accuracy= 0.7465, TrainT=7.0571, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8765 accuracy= 0.7612, TrainT=7.0838, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8654 accuracy= 0.7812, TrainT=5.4710, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8954 accuracy= 0.7393, TrainT=5.3897, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9107 accuracy= 0.7982, TrainT=7.1397, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8522 accuracy= 0.7742, TrainT=5.5034, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8701 accuracy= 0.7802, TrainT=7.0519, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8660 accuracy= 0.7702, TrainT=7.0508, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8792 accuracy= 0.7752, TrainT=7.1965, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8219 accuracy= 0.8132, TrainT=7.1781, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9487 accuracy= 0.6823, TrainT=7.0848, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8724 accuracy= 0.7622, TrainT=7.3161, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9524 accuracy= 0.7243, TrainT=5.3696, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.0034 accuracy= 0.7293, TrainT=7.5701, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9781 accuracy= 0.7552, TrainT=5.0241, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9148 accuracy= 0.7692, TrainT=7.2752, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8898 accuracy= 0.7453, TrainT=7.2148, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9953 accuracy= 0.6743, TrainT=7.1648, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8131 accuracy= 0.8302, TrainT=7.1366, SampleSize=2708, BatchSize=1, SamplesNo=1, LayersNo=2    (TKipf code)
+(my code with sampling ON MY GPU)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8625 accuracy= 0.7483, TrainT=14.3173, SampleSize=2708, BatchSize=1, Overlap=1, SamplesNo=1, LayersNo=2 (my code with sampling ON MY GPU)
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9293 accuracy= 0.7303, TrainT=19.3679, SampleSize=1800, BatchSize=1, Overlap=1, SamplesNo=2, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9430 accuracy= 0.7463, TrainT=27.4042, SampleSize=1352, BatchSize=1, Overlap=1, SamplesNo=3, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9654 accuracy= 0.7403, TrainT=24.9304, SampleSize=1000, BatchSize=1, Overlap=1, SamplesNo=3, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.1167 accuracy= 0.6703, TrainT=33.0818, SampleSize=800, BatchSize=1, Overlap=1, SamplesNo=4, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.0817 accuracy= 0.6194, TrainT=45.0056, SampleSize=600, BatchSize=1, Overlap=1, SamplesNo=5, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9791 accuracy= 0.7023, TrainT=56.8387, SampleSize=500, BatchSize=1, Overlap=1, SamplesNo=6, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.2848 accuracy= 0.5854, TrainT=75.4658, SampleSize=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7434 accuracy= 0.7802, TrainT=91.9129, SampleSize=1800, BatchSize=1, Overlap=3, SamplesNo=6, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.1113 accuracy= 0.6573, TrainT=73.3738, SampleSize=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 1.0809 accuracy= 0.6523, TrainT=73.9957, SampleSize=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6545 accuracy= 0.8172, TrainT=78.2343, SampleSize=1800, BatchSize=1, Overlap=3, SamplesNo=6, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8002 accuracy= 0.7173, TrainT=153.0456, SampleSize=1352, BatchSize=1, Overlap=3, SamplesNo=9, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8848 accuracy= 0.7243, TrainT=142.6654, SampleSize=1000, BatchSize=1, Overlap=3, SamplesNo=9, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9046 accuracy= 0.6773, TrainT=264.3694, SampleSize=800, BatchSize=1, Overlap=3, SamplesNo=12, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7973 accuracy= 0.7642, TrainT=447.7166, SampleSize=600, BatchSize=1, Overlap=3, SamplesNo=15, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7371 accuracy= 0.7712, TrainT=715.4015, SampleSize=500, BatchSize=1, Overlap=3, SamplesNo=18, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8686 accuracy= 0.7203, TrainT=1064.3706, SampleSize=400, BatchSize=1, Overlap=3, SamplesNo=21, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7023 accuracy= 0.7762, TrainT=206.6114, SampleSize=1800, BatchSize=1, Overlap=5, SamplesNo=10, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7089 accuracy= 0.7612, TrainT=488.1576, SampleSize=1352, BatchSize=1, Overlap=5, SamplesNo=15, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7185 accuracy= 0.8122, TrainT=470.0293, SampleSize=1000, BatchSize=1, Overlap=5, SamplesNo=15, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7418 accuracy= 0.7692, TrainT=963.4979, SampleSize=800, BatchSize=1, Overlap=5, SamplesNo=20, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7609 accuracy= 0.7662, TrainT=1729.8190, SampleSize=600, BatchSize=1, Overlap=5, SamplesNo=25, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8354 accuracy= 0.7662, TrainT=2881.8653, SampleSize=500, BatchSize=1, Overlap=5, SamplesNo=30, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8193 accuracy= 0.7572, TrainT=4399.4633, SampleSize=400, BatchSize=1, Overlap=5, SamplesNo=35, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6907 accuracy= 0.8032, TrainT=426.7323, SampleSize=1800, BatchSize=1, Overlap=7, SamplesNo=14, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6840 accuracy= 0.7782, TrainT=1127.1671, SampleSize=1352, BatchSize=1, Overlap=7, SamplesNo=21, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6615 accuracy= 0.8012, TrainT=1107.6633, SampleSize=1000, BatchSize=1, Overlap=7, SamplesNo=21, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7075 accuracy= 0.7682, TrainT=2397.2558, SampleSize=800, BatchSize=1, Overlap=7, SamplesNo=28, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7795 accuracy= 0.7702, TrainT=4406.5879, SampleSize=600, BatchSize=1, Overlap=7, SamplesNo=35, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8492 accuracy= 0.7253, TrainT=7386.1969, SampleSize=500, BatchSize=1, Overlap=7, SamplesNo=42, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8235 accuracy= 0.7403, TrainT=11490.7209, SampleSize=400, BatchSize=1, Overlap=7, SamplesNo=49, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6096 accuracy= 0.8132, TrainT=786.2212, SampleSize=1800, BatchSize=1, Overlap=9, SamplesNo=18, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7756 accuracy= 0.7582, TrainT=2209.6402, SampleSize=1352, BatchSize=1, Overlap=9, SamplesNo=27, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6672 accuracy= 0.8052, TrainT=2172.0129, SampleSize=1000, BatchSize=1, Overlap=9, SamplesNo=27, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7521 accuracy= 0.7742, TrainT=4813.8402, SampleSize=800, BatchSize=1, Overlap=9, SamplesNo=36, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7874 accuracy= 0.7572, TrainT=9053.6700, SampleSize=600, BatchSize=1, Overlap=9, SamplesNo=45, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9969 accuracy= 0.6843, TrainT=15392.4387, SampleSize=500, BatchSize=1, Overlap=9, SamplesNo=54, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8850 accuracy= 0.7003, TrainT=24246.9820, SampleSize=400, BatchSize=1, Overlap=9, SamplesNo=63, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8552 accuracy= 0.7303, TrainT=141.1203, SampleSize=1000, BatchSize=1, Overlap=3, SamplesNo=9, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7629 accuracy= 0.7463, TrainT=463.9593, SampleSize=1000, BatchSize=1, Overlap=5, SamplesNo=15, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7679 accuracy= 0.7453, TrainT=1104.0122, SampleSize=1000, BatchSize=1, Overlap=7, SamplesNo=21, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6874 accuracy= 0.7972, TrainT=2174.5414, SampleSize=1000, BatchSize=1, Overlap=9, SamplesNo=27, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6857 accuracy= 0.7762, TrainT=7456.4941, SampleSize=1000, BatchSize=1, Overlap=14, SamplesNo=42, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8068 accuracy= 0.7572, TrainT=21050.2251, SampleSize=1000, BatchSize=1, Overlap=20, SamplesNo=60, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7462 accuracy= 0.7722, TrainT=150.7248, SampleSize=1352, BatchSize=1, Overlap=3, SamplesNo=9, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7269 accuracy= 0.7992, TrainT=481.1898, SampleSize=1352, BatchSize=1, Overlap=5, SamplesNo=15, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.7050 accuracy= 0.7842, TrainT=1124.0979, SampleSize=1352, BatchSize=1, Overlap=7, SamplesNo=21, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6881 accuracy= 0.7822, TrainT=2215.4218, SampleSize=1352, BatchSize=1, Overlap=9, SamplesNo=27, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8413 accuracy= 0.7532, TrainT=4813.1049, SampleSize=800, BatchSize=1, Overlap=9, SamplesNo=36, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8307 accuracy= 0.7592, TrainT=8501.6411, SampleSize=800, BatchSize=1, Overlap=11, SamplesNo=44, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8615 accuracy= 0.7093, TrainT=10922.0963, SampleSize=800, BatchSize=1, Overlap=12, SamplesNo=48, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.6458 accuracy= 0.7892, TrainT=20928.7471, SampleSize=800, BatchSize=1, Overlap=15, SamplesNo=60, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.8539 accuracy= 0.7273, TrainT=50051.7786, SampleSize=800, BatchSize=1, Overlap=20, SamplesNo=80, LayersNo=2
+2708 nodes, 5429 edges, 1433 features, 7 labels, 2708 nodes, 5429 edges, 1433 features, 7 labels, loss= 0.9110 accuracy= 0.7562, TrainT=25.8302, SampleSize=2708, BatchSize=1, Overlap=1, SamplesNo=1, LayersNo=2
+400 nodes, 160 edges, 1433 features, 7 labels, loss= 2.0182 accuracy= 0.3716, TrainT=6.6886, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 155 edges, 1433 features, 7 labels, loss= 2.4288 accuracy= 0.4122, TrainT=6.4408, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 150 edges, 1433 features, 7 labels, loss= 2.0525 accuracy= 0.3446, TrainT=5.1443, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 131 edges, 1433 features, 7 labels, loss= 1.9312 accuracy= 0.4257, TrainT=5.1670, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 174 edges, 1433 features, 7 labels, loss= 2.0158 accuracy= 0.5203, TrainT=5.1142, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 161 edges, 1433 features, 7 labels, loss= 1.9862 accuracy= 0.4122, TrainT=5.2264, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+308 nodes, 339 edges, 1433 features, 7 labels, 400 nodes, 160 edges, 1433 features, 7 labels, loss= 2.4457 accuracy= 0.3986, TrainT=6.7175, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 155 edges, 1433 features, 7 labels, loss= 2.1503 accuracy= 0.3649, TrainT=6.3747, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 150 edges, 1433 features, 7 labels, loss= 2.2702 accuracy= 0.4527, TrainT=6.4488, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 131 edges, 1433 features, 7 labels, loss= 2.0826 accuracy= 0.4054, TrainT=6.4688, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 174 edges, 1433 features, 7 labels, loss= 3.0889 accuracy= 0.2432, TrainT=6.5363, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 161 edges, 1433 features, 7 labels, loss= 2.1454 accuracy= 0.4054, TrainT=6.5591, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+308 nodes, 339 edges, 1433 features, 7 labels, loss= 1.5693 accuracy= 0.6106, TrainT=5.1527, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 160 edges, 1433 features, 7 labels, 400 nodes, 160 edges, 1433 features, 7 labels, loss= 1.8908 accuracy= 0.4662, TrainT=6.6959, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 155 edges, 1433 features, 7 labels, loss= 1.4925 accuracy= 0.5135, TrainT=6.0276, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 150 edges, 1433 features, 7 labels, loss= 1.9597 accuracy= 0.4324, TrainT=6.0669, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 131 edges, 1433 features, 7 labels, loss= 1.8925 accuracy= 0.4122, TrainT=6.0404, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 174 edges, 1433 features, 7 labels, loss= 1.8158 accuracy= 0.5541, TrainT=6.0909, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 161 edges, 1433 features, 7 labels, loss= 2.0669 accuracy= 0.3986, TrainT=6.1019, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+308 nodes, 339 edges, 1433 features, 7 labels, loss= 1.7180 accuracy= 0.6106, TrainT=4.6873, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 160 edges, 1433 features, 7 labels, 400 nodes, 155 edges, 1433 features, 7 labels, 400 nodes, 150 edges, 1433 features, 7 labels, 400 nodes, 131 edges, 1433 features, 7 labels, 400 nodes, 174 edges, 1433 features, 7 labels, 400 nodes, 161 edges, 1433 features, 7 labels, 308 nodes, 339 edges, 1433 features, 7 labels, 400 nodes, 160 edges, 1433 features, 7 labels, 400 nodes, 155 edges, 1433 features, 7 labels, 400 nodes, 150 edges, 1433 features, 7 labels, 400 nodes, 160 edges, 1433 features, 7 labels, 400 nodes, 155 edges, 1433 features, 7 labels, 2708 nodes, 160 edges, 1433 features, 7 labels, 400 nodes, 160 edges, 1433 features, 7 labels, 400 nodes, 155 edges, 1433 features, 7 labels, 400 nodes, 150 edges, 1433 features, 7 labels, 400 nodes, 131 edges, 1433 features, 7 labels, 400 nodes, 174 edges, 1433 features, 7 labels, 400 nodes, 161 edges, 1433 features, 7 labels, 308 nodes, 339 edges, 1433 features, 7 labels, 400 nodes, 160 edges, 1433 features, 7 labels, 400 nodes, 155 edges, 1433 features, 7 labels, 400 nodes, 150 edges, 1433 features, 7 labels, 400 nodes, 131 edges, 1433 features, 7 labels, 400 nodes, 174 edges, 1433 features, 7 labels, 400 nodes, 161 edges, 1433 features, 7 labels, 308 nodes, 339 edges, 1433 features, 7 labels, loss= inf accuracy= 0.3097, TrainT=1.1552, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
+400 nodes, 160 edges, 1433 features, 7 labels, 400 nodes, 155 edges, 1433 features, 7 labels, 400 nodes, 150 edges, 1433 features, 7 labels, 400 nodes, 131 edges, 1433 features, 7 labels, 400 nodes, 174 edges, 1433 features, 7 labels, 400 nodes, 161 edges, 1433 features, 7 labels, 308 nodes, 339 edges, 1433 features, 7 labels, loss= 9.9688 accuracy= 0.2743, TrainT=1.0621, OverlapNo=400, BatchSize=1, Overlap=1, SamplesNo=7, LayersNo=2
